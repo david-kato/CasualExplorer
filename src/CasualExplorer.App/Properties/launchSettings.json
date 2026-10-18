@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CasualExplorer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CasualExplorer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

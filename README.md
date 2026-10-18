@@ -1,0 +1,2 @@
+# CasualExplorer
+Windows向けの読取り専用ファイル一覧・重力プレビュー試作

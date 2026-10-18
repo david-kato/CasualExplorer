@@ -1,0 +1,14 @@
+# Local SDK and dependency caches. Restore these on each PC.
+.tools/
+
+# Generated build outputs. Rebuild these on each PC.
+**/bin/
+**/obj/
+
+# Visual Studio per-user state.
+.vs/
+*.user
+*.suo
+
+# Local test results.
+TestResults/
